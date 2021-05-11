@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Everything, because I like learn day a day new things in this magic tech world.**
 
-- 👯 I'm thew creator of a social project named [Verfrut Company RF](https://verfrut-company-rf.web.app)
+- 👯 I'm the creator of a social project named [Verfrut Company RF](https://verfrut-company-rf.web.app)
 
 - 💬 Ask me about **React, Angular, Python, C, C++, C# ...**
 
 - 📫 How to reach me **jcnv21@gmail.com**
 
-- 📄 Know about my experiences [I have been a student of the Technological Institute of Costa Rica (TEC) for 5 years, I study and now I work in advision, I manage the Verfrut website and for a few days to start two new projects.](I have been a student of the Technological Institute of Costa Rica (TEC) for 5 years, I study and now I work in advision, I manage the Verfrut website and for a few days to start two new projects.)
+- 📄 Know about my experiences [I have been a student of the Technological Institute of Costa Rica (TEC) for 5 years, I study and now I work at Advision, I manage the Verfrut website and for a few days to start two new projects.](I have been a student of the Technological Institute of Costa Rica (TEC) for 5 years, I study and now I work in advision, I manage the Verfrut website and for a few days to start two new projects.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
