@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jcnv21/" target="blank">
-  <img align="center" src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" alt="https://www.linkedin.com/in/jcnv21/" height="60" width="190" />
+  <img align="center" src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" alt="https://www.linkedin.com/in/jcnv21/" height="45" width="142.5" />
 </a>
 </p>
 
