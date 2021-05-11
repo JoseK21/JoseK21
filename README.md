@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Advision Company](https://www.advisiondevelopment.com/)
 
-- 🌱 I’m currently learning **everything, because I like learn new things every day a day new things in this magic tech world.**
+- 🌱 I’m currently learning **everything, because I like learn new things every day in this magical technological world.**
 
 - 👯 I'm the creator of a social project named [Verfrut Company RF](https://verfrut-company-rf.web.app)
 
