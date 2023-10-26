@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at [Advision Company](https://www.advisiondevelopment.com/)
-
 - 🌱 I’m currently learning **everything, because I like learn new things every day in this magical technological world.**
 
 - 👯 I'm the creator of a social project named [Verfrut Company RF](https://verfrut-company-rf.web.app)
 
-- 💬 Ask me about **React, Angular, Python, C, C++, C# ...**
+- 💬 Ask me about **Javascript. React, Angular, Python, C, C++, C# ...**
 
 - 📫 How to reach me **jcnv21@gmail.com**
 
